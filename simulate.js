@@ -138,7 +138,7 @@ function simulateGames(returnCoreDecklist)
 {
     var before = Date.now();
     
-    var simulatingGames = 10000000;
+    var simulatingGames = 1000;
 
     var turn2 = 0;
     var turn3 = 0;
@@ -601,7 +601,7 @@ function drawACard(deck, hand)
     }
     else
     {
-        console.log("deckout!!!");
+        //console.log("deckout!!!");
     }
 }
 
