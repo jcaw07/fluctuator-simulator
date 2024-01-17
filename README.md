@@ -2,7 +2,7 @@
 
 This very [bodged](https://www.youtube.com/watch?v=lIFE7h3m40U) simulator simulates Fluctuator in pre-modern. The decklist is tweakable and the ideal decklist will perform on an average turn 4 kill.
 
-To run the simulation, check out the repository or donwnload the simulate.js file and run `node simulate.js`. The decklist on the bottom of the code is configurable to test different deck configurations.
+To run the simulation, check out the repository or download the simulate.js file and run `node simulate.js`. The decklist on the bottom of the code is configurable to test different deck configurations.
 
 ```
 Results after simulating 10000000 games
