@@ -12,3 +12,4 @@ Bricked Game Percentage: 4.68665
 Average Starting Hand Size 6.5151949
 Turn 2: 801300 Turn 3: 4731388 Turn 4: 1814370 Turn 5: 1094256 Turn 6: 409012 Turn 7: 228163 Turn 8: 182142 Turn 9: 148401 Turn 10: 122303 Brick: 468665
 ```
+[A meme and a dream](https://premodernmagic.com/blog/a-meme-and-a-dream-cycling-at-lobstercon/)
